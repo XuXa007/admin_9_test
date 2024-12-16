@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Admin9TestApplication {
 
     public static void main(String[] args) {
+        System.out.println("Hello, Jenkins");
         SpringApplication.run(Admin9TestApplication.class, args);
     }
 
